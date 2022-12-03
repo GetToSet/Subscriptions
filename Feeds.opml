@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Ethan's Feed Subscriptions</title>
+    <ownerEmail>e1hanw0ng@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="App Releases">
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub" language="en"/>
+      <outline text="NetNewsWire" type="rss" xmlUrl="https://nnw.ranchero.com/feed.xml" htmlUrl="https://nnw.ranchero.com/" description="" language="en"/>
+    </outline>
+    <outline text="Blogs">
+      <outline text="Artorius" type="rss" xmlUrl="https://artori.us/feed.xml" htmlUrl="https://artori.us/" description="Arthur's Blog" language="zh"/>
+      <outline text="BrettTerpstra.com - The Mad Science of Brett Terpstra" type="rss" xmlUrl="http://brett.trpstra.net/brettterpstra" htmlUrl="https://brettterpstra.com/" description="Welcome to The Lab, detailing the coding and automation exploits of Brett Terpstra." language="en"/>
+      <outline text="Ezequiel Aceto" type="rss" xmlUrl="https://eaceto.dev/feed/" htmlUrl="https://eaceto.dev/" description="My blog about technology" language="en"/>
+      <outline text="Hog Bay Software" type="rss" xmlUrl="https://www.hogbaysoftware.com/feed/feed.xml" htmlUrl="https://www.hogbaysoftware.com/" description="Hog Bay Software Blog" language="en"/>
+      <outline text="Home on Eirms" type="rss" xmlUrl="https://eirms.com/index.xml" htmlUrl="https://eirms.com/" description="Recent content in Home on Eirms" language="zh"/>
+      <outline text="Hwang's Blog" type="rss" xmlUrl="https://hwang.top/atom.xml" htmlUrl="https://hwang.top/" description="欢迎来到 Hwang 的小博客 &lt;br&gt;&#10;📚 博客通过 Gridea 搭建，感谢 Gridea 的免费服务；&lt;br&gt;&#10;🌍 托管于 Github，感谢 Github.com 提供的服务器资源  &lt;br&gt;&#10;✏️ 文章由 Hwang，在 Ulysses 上完成写作/亦或者拷贝&lt;br&gt;&#10;👨‍🎨 封面由 Hwang，在 Figma 上完成创作 &lt;br&gt;&#10;这里显然不是什么技术博客，也不会有太多值得期待的干货。" language="zh"/>
+      <outline text="inessential.com" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/" description="Brent Simmons’s weblog." language="en"/>
+      <outline text="Jonathan Hays" type="rss" xmlUrl="https://jonathanhays.me/feed/" htmlUrl="https://jonathanhays.me/" description="Powered by coffee and cheese" language="en"/>
+      <outline text="Manton Reece" type="rss" xmlUrl="https://www.manton.org/feed" htmlUrl="https://www.manton.org/" description="" language="en"/>
+      <outline text="Nil Coalescing" type="rss" xmlUrl="https://nilcoalescing.com/feed.rss" htmlUrl="https://nilcoalescing.com/" description="We are a software development company based in New Zealand passionate about iOS and macOS app development." language="en"/>
+      <outline text="Pseudoyu" type="rss" xmlUrl="https://www.pseudoyu.com/zh/index.xml" htmlUrl="https://www.pseudoyu.com/zh/" description="Recent content on Pseudoyu" language="zh"/>
+      <outline text="Random Thoughts" type="rss" xmlUrl="https://blog.joway.io/index.xml" htmlUrl="https://blog.joway.io/" description="Recent content on Random Thoughts" language="zh"/>
+      <outline text="Shall We Code?" type="rss" xmlUrl="https://waynerv.com/rss.xml" htmlUrl="https://waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等" language="zh"/>
+      <outline text="SPACE Blog - 小宇宙" type="rss" xmlUrl="https://blog.xiaoyuzhoufm.com/rss/" htmlUrl="https://blog.xiaoyuzhoufm.com/" description="小宇宙Studio和小宇宙剪辑工具" language="zh"/>
+      <outline text="Steve说每周通讯" type="rss" xmlUrl="https://rss.ethanwong.cn/blogs/hedwig/steve" htmlUrl="https://steve.hedwig.pub/" description="内容来自Steve和朋友们每周精选的优质内容 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation" language="zh"/>
+      <outline text="The Breakroom" type="rss" xmlUrl="https://blog.iconfactory.com/feed/" htmlUrl="https://blog.iconfactory.com/" description="A blog for the Iconfactory" language="en"/>
+      <outline text="Unsplash" type="rss" xmlUrl="https://unsplash.com/blog/rss/" htmlUrl="https://unsplash.com/blog/" description="Stories from the community powering the internet’s visuals" language="en"/>
+      <outline text="刻意体会" type="rss" xmlUrl="https://rss.ethanwong.cn/blogs/hedwig/kyth" htmlUrl="https://kyth.hedwig.pub/" description="Time takes the time time takes. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="唐巧的博客" type="rss" xmlUrl="https://blog.devtang.com/atom.xml" htmlUrl="https://blog.devtang.com/" description="记录下自己学习的点滴" language="zh"/>
+      <outline text="木土金王可" type="rss" xmlUrl="https://dujinke.com/feed/" htmlUrl="https://dujinke.com/" description="" language="zh"/>
+    </outline>
+    <outline text="Design">
+      <outline text="DecoHack周刊" type="rss" xmlUrl="https://rss.ethanwong.cn/zhubai/decohack?limit=50" htmlUrl="https://decohack.zhubai.love/" description="为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。&#10;内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式&#10;每周更新 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="显济的闲言碎语" type="rss" xmlUrl="https://rss.ethanwong.cn/zhubai/xianjijeffery?limit=50" htmlUrl="https://xianjijeffery.zhubai.love/" description="对交互有点想法的设计师，喜欢写点跟别人不一样的。（如有任何问题，欢迎反馈到我的即刻：显济Jeffery） - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="海上星光" type="rss" xmlUrl="https://rss.ethanwong.cn/zhubai/hsxg?limit=50" htmlUrl="https://hsxg.zhubai.love/" description="上海的PM与东京的设计师共营的科技、设计、生活型博客 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+    </outline>
+    <outline text="Efficiency">
+      <outline text="可乐周报" type="rss" xmlUrl="http://coke.do/?format=rss" htmlUrl="http://coke.do/" description="简短实用的思维方式" language="zh"/>
+    </outline>
+    <outline text="iDev">
+      <outline text="Basic Apple Guy" type="rss" xmlUrl="https://basicappleguy.com/basicappleblog?format=rss" htmlUrl="https://basicappleguy.com/" description="" language="en"/>
+      <outline text="Becky Hansmeyer" type="rss" xmlUrl="https://beckyhansmeyer.com/feed/" htmlUrl="https://beckyhansmeyer.com/" description="100% grass-fed Swift. Artisanal SwiftUI." language="en"/>
+      <outline text="Ben Scheirman" type="rss" xmlUrl="https://benscheirman.com/rss/" htmlUrl="https://benscheirman.com/" description="developer. traveler. connoisseur." language="en"/>
+      <outline text="Emerge Tools Blog" type="rss" xmlUrl="https://www.emergetools.com/rss.xml" htmlUrl="https://www.emergetools.com/blog" description="Read about mobile app performance on the Emerge Tools Blog." language="en"/>
+      <outline text="Erica Sadun" type="rss" xmlUrl="https://ericasadun.com/feed/" htmlUrl="https://ericasadun.com/" description="Where technology meets something or other" language="en"/>
+      <outline text="furbo.org" type="rss" xmlUrl="https://furbo.org/feed/" htmlUrl="https://furbo.org/" description="by Craig Hockenberry" language="en"/>
+      <outline text="Michael Tsai" type="rss" xmlUrl="https://mjtsai.com/blog/feed/" htmlUrl="https://mjtsai.com/blog" description="" language="en"/>
+      <outline text="Release notes from iOS-Weekly" type="rss" xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases" description="" language="en"/>
+      <outline text="Six Colors" type="rss" xmlUrl="https://sixcolors.com/feed/" htmlUrl="https://sixcolors.com/?feed=json" description="Apple, technology, and other stuff by Jason Snell &amp; Dan Moren" language="en"/>
+      <outline text="steipete’s blog" type="rss" xmlUrl="https://steipete.com/feed.xml" htmlUrl="https://steipete.com/" description="I founded and bootstrapped PSPDFKit, an SDK for working with PDF files on any platform. I speak at various conferences around the world. Co-organizer Cocoaheads Austria." language="en"/>
+      <outline text="SwiftRocks" type="rss" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl="https://swiftrocks.com/" description="SwiftRocks is a blog about how Swift works and general iOS tips and tricks." language="en"/>
+      <outline text="The Eclectic Light Company" type="rss" xmlUrl="https://eclecticlight.co/feed/" htmlUrl="https://eclecticlight.co/" description="Macs, painting, and more" language="en"/>
+      <outline text="The Loop" type="rss" xmlUrl="https://www.loopinsight.com/feed/" htmlUrl="https://www.loopinsight.com/" description="Making Sense of Technology" language="en"/>
+      <outline text="The Shape of Everything" type="rss" xmlUrl="https://shapeof.com/rss.xml" htmlUrl="https://shapeof.com/" description="A website mostly about Mac stuff, written by Gus Mueller" language="en"/>
+      <outline text="戴铭的博客 - 星光社" type="rss" xmlUrl="https://ming1016.github.io/atom.xml" htmlUrl="http://ming1016.github.io/" description="" language="zh"/>
+      <outline text="肘子的Swift记事本" type="rss" xmlUrl="https://www.fatbobman.com/feed.rss" htmlUrl="https://www.fatbobman.com/" description="东坡肘子的博客，记录并分享学习 Swift、SwiftUI、Core Data 以及 Combine 过程中的心得与经验。" language="zh"/>
+    </outline>
+    <outline text="Tech">
+      <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/" description="少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质" language="zh"/>
+      <outline text="混沌周刊" type="rss" xmlUrl="https://weekly.love/feed/atom/" htmlUrl="https://weekly.love/" description="有关科技，有关开发，有关生活" language="zh"/>
+    </outline>
+    <outline text="Web Development">
+      <outline text="Jim Nielsen’s Blog" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com/" description="" language="en"/>
+      <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/" description="" language="en"/>
+    </outline>
+  </body>
+</opml>
