@@ -158,5 +158,7 @@
     <outline title="无处不在" xmlUrl="https://www.ximalaya.com/album/49751194.xml" type="rss" language="zh" />
     <outline title="枕边风 theuglytruth" xmlUrl="http://rss.lizhi.fm/rss/490028.xml" type="rss" language="zh" />
     <outline title="七分饱" xmlUrl="https://rsshub.app/xiaoyuzhou/podcast/62ee22c34ea7a3b9ea4929a5" type="rss" language="zh" />
+    <outline title="Why for Jazz" xmlUrl="https://whyforjazz.typlog.io/feed/audio.xml" type="rss" language="zh"/>
+    <outline title="反派影评" xmlUrl="https://anchor.fm/s/4a4df770/podcast/rss" type="rss" language="zh" />
   </body>
 </opml>
