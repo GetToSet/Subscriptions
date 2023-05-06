@@ -6,30 +6,28 @@
   </head>
   <body>
     <outline text="App Releases">
+      <outline text="FreeFileSync News" type="rss" xmlUrl="https://freefilesync.org/news-feed.php" htmlUrl="https://freefilesync.org/" description="Get notifications about the latest FreeFileSync releases" language="en"/>
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub" language="en"/>
-      <outline text="NetNewsWire" type="rss" xmlUrl="https://nnw.ranchero.com/feed.xml" htmlUrl="https://nnw.ranchero.com/" description="" language="en"/>
+      <outline text="NetNewsWire" type="rss" xmlUrl="https://netnewswire.blog/feed.xml" htmlUrl="https://nnw.ranchero.com/" description="" language="en"/>
+      <outline text="_blog" type="rss" xmlUrl="https://blog.timing.is/rss/" htmlUrl="https://blog.timing.is/" description="_blog" language="en"/>
     </outline>
-    <outline text="Blogs">
-      <outline text="BrettTerpstra.com - The Mad Science of Brett Terpstra" type="rss" xmlUrl="http://brett.trpstra.net/brettterpstra" htmlUrl="https://brettterpstra.com/" description="Welcome to The Lab, detailing the coding and automation exploits of Brett Terpstra." language="en"/>
-      <outline text="Cindori Blog" type="rss" xmlUrl="https://cindori.com/feed.xml" htmlUrl="https://cindori.com/blog" description="Browse the latest news, guides and tutorials for Mac users, including in-depth articles for Apple developers." language="en"/>
-      <outline text="Ezequiel Aceto" type="rss" xmlUrl="https://eaceto.dev/feed/" htmlUrl="https://eaceto.dev/" description="My blog about technology" language="en"/>
-      <outline text="Hog Bay Software" type="rss" xmlUrl="https://www.hogbaysoftware.com/feed/feed.xml" htmlUrl="https://www.hogbaysoftware.com/" description="Hog Bay Software Blog" language="en"/>
-      <outline text="inessential.com" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/" description="Brent Simmons’s weblog." language="en"/>
-      <outline text="Jonathan Hays" type="rss" xmlUrl="https://jonathanhays.me/feed/" htmlUrl="https://jonathanhays.me/" description="Powered by coffee and cheese" language="en"/>
-      <outline text="Manton Reece" type="rss" xmlUrl="https://www.manton.org/feed" htmlUrl="https://www.manton.org/" description="" language="en"/>
-      <outline text="Nil Coalescing" type="rss" xmlUrl="https://nilcoalescing.com/feed.rss" htmlUrl="https://nilcoalescing.com/" description="We are a software development company based in New Zealand passionate about iOS and macOS app development." language="en"/>
-      <outline text="The Breakroom" type="rss" xmlUrl="https://blog.iconfactory.com/feed/" htmlUrl="https://blog.iconfactory.com/" description="A blog for the Iconfactory" language="en"/>
-      <outline text="Unsplash" type="rss" xmlUrl="https://unsplash.com/blog/rss/" htmlUrl="https://unsplash.com/blog/" description="Stories from the community powering the internet’s visuals" language="en"/>
+    <outline text="Design">
+      <outline text="LMNT" type="rss" xmlUrl="http://lmnt.me/feed.xml" htmlUrl="http://lmnt.me/" description="That’s right. This is Louie Mantia’s Weblog." language="en"/>
+      <outline text="Work logs" type="rss" xmlUrl="https://method.ac/writing/index.xml" htmlUrl="https://method.ac/writing/" description="Everything that is written in Method of Action" language="en"/>
+    </outline>
+    <outline text="Efficiency">
     </outline>
     <outline text="iDev">
       <outline text="Becky Hansmeyer" type="rss" xmlUrl="https://www.beckyhansmeyer.com/feed/" htmlUrl="https://beckyhansmeyer.com/" description="100% grass-fed Swift. Artisanal SwiftUI." language="en"/>
-      <outline text="Ben Scheirman" type="rss" xmlUrl="https://benscheirman.com/rss/" htmlUrl="https://benscheirman.com/" description="developer. traveler. connoisseur." language="en"/>
+      <outline text="Ben Scheirman" type="rss" xmlUrl="https://benscheirman.com/feed.xml" htmlUrl="https://benscheirman.com/" description="Ben is an experienced software engineer from Houston, TX. Currently focused on Swift, iOS, Ruby, and Rust." language="en"/>
       <outline text="Blog on Asahi Linux" type="rss" xmlUrl="https://asahilinux.org/blog/index.xml" htmlUrl="https://asahilinux.org/blog/" description="Recent content in Blog on Asahi Linux" language="en"/>
       <outline text="dougallj" type="rss" xmlUrl="https://dougallj.wordpress.com/feed/" htmlUrl="https://dougallj.wordpress.com/" description="" language="en"/>
       <outline text="Emerge Tools Blog" type="rss" xmlUrl="https://www.emergetools.com/rss.xml" htmlUrl="https://www.emergetools.com/blog" description="Read about mobile app performance on the Emerge Tools Blog." language="en"/>
       <outline text="Erica Sadun" type="rss" xmlUrl="https://ericasadun.com/feed/" htmlUrl="https://ericasadun.com/" description="Where technology meets something or other" language="en"/>
       <outline text="furbo.org" type="rss" xmlUrl="https://furbo.org/feed/" htmlUrl="https://furbo.org/" description="by Craig Hockenberry" language="en"/>
+      <outline text="iOS Dev Weekly" type="rss" xmlUrl="https://iosdevweekly.com/issues.rss" htmlUrl="https://iosdevweekly.com/issues" description="Subscribe to a hand-picked round-up of the best iOS development links every week. Curated by Dave Verwer and published every Friday. Free." language="en"/>
       <outline text="Michael Tsai" type="rss" xmlUrl="https://mjtsai.com/blog/feed/" htmlUrl="https://mjtsai.com/blog" description="" language="en"/>
+      <outline text="paul-samuels.com" type="rss" xmlUrl="https://paul-samuels.com/atom.xml" htmlUrl="http://paul-samuels.com/" description="" language="en"/>
       <outline text="Posts on Hybras' Site" type="rss" xmlUrl="https://hybras.dev/posts/index.xml" htmlUrl="https://hybras.dev/posts/" description="Recent content in Posts on Hybras' Site" language="en"/>
       <outline text="Release notes from iOS-Weekly" type="rss" xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases" description="" language="en"/>
       <outline text="Six Colors" type="rss" xmlUrl="https://sixcolors.com/feed/" htmlUrl="https://sixcolors.com/?feed=json" description="Apple, technology, and other stuff by Jason Snell &amp; Dan Moren" language="en"/>
@@ -39,8 +37,33 @@
       <outline text="The Loop" type="rss" xmlUrl="https://www.loopinsight.com/feed/" htmlUrl="https://www.loopinsight.com/" description="Making Sense of Technology" language="en"/>
       <outline text="The Shape of Everything" type="rss" xmlUrl="https://shapeof.com/rss.xml" htmlUrl="https://shapeof.com/" description="A website mostly about Mac stuff, written by Gus Mueller" language="en"/>
     </outline>
+    <outline text="Micro Bloging">
+      <outline text="Douglas Hill" type="rss" xmlUrl="https://pub.douglashill.co/feed" htmlUrl="https://pub.douglashill.co/" description="" language="en"/>
+      <outline text="Manton Reece" type="rss" xmlUrl="https://www.manton.org/feed" htmlUrl="https://www.manton.org/" description="" language="en"/>
+    </outline>
+    <outline text="Personal Blogs">
+      <outline text="Bitsplitting.org" type="rss" xmlUrl="https://bitsplitting.org/feed/" htmlUrl="https://bitsplitting.org/" description="Chasing the impossible with Daniel Jalkut" language="en"/>
+      <outline text="BrettTerpstra.com - The Mad Science of Brett Terpstra" type="rss" xmlUrl="https://brett.trpstra.net/brettterpstra" htmlUrl="https://brettterpstra.com/" description="Welcome to The Lab, detailing the coding and automation exploits of Brett Terpstra." language="en"/>
+      <outline text="Ezequiel Aceto" type="rss" xmlUrl="https://eaceto.dev/feed/" htmlUrl="https://eaceto.dev/" description="by Ezequiel &quot;Kimi&quot; Aceto" language="en"/>
+      <outline text="inessential.com" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/" description="Brent Simmons’s weblog." language="en"/>
+      <outline text="Jonathan Hays" type="rss" xmlUrl="https://jonathanhays.me/feed/" htmlUrl="https://jonathanhays.me/" description="Powered by coffee and cheese" language="en"/>
+      <outline text="Khanlou" type="rss" xmlUrl="https://khanlou.com/feed/" htmlUrl="http://khanlou.com/" description="" language="en"/>
+      <outline text="Nil Coalescing" type="rss" xmlUrl="https://nilcoalescing.com/feed.rss" htmlUrl="https://nilcoalescing.com/" description="We are a software development company based in New Zealand passionate about iOS and macOS app development." language="en"/>
+      <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Programming in python, JavaScript and Golang."/ language="zh">
+      <outline text="Pol Piella's Blog" type="rss" xmlUrl="https://www.polpiella.dev/rss.xml" htmlUrl="https://polpiella.dev/" description="A blog about iOS mobile app development and Swift."/ language="en">
+      <outline text="Rambo Codes" type="rss" xmlUrl="https://rambo.codes/feed.rss" htmlUrl="https://rambo.codes/" description="Gui Rambo writes about his coding and reverse engineering adventures." language="en"/>
+      <outline text="Sindre Sorhus — Blog" type="rss" xmlUrl="https://sindresorhus.com/rss.xml" htmlUrl="https://sindresorhus.com/" description="Full-Time Open-Sourcerer &amp; Aspiring Rebel" language="en"/>
+    </outline>
+    <outline text="Product Blogs">
+      <outline text="Bjango Articles" type="rss" xmlUrl="https://bjango.com/rss/articles.xml" htmlUrl="https://bjango.com/articles/" description="Articles about design, code, and Bjango" language="en"/>
+      <outline text="Cindori Blog" type="rss" xmlUrl="https://cindori.com/feed.xml" htmlUrl="https://cindori.com/blog" description="Browse the latest news, guides and tutorials for Mac users, including in-depth articles for Apple developers." language="en"/>
+      <outline text="Hog Bay Software" type="rss" xmlUrl="https://www.hogbaysoftware.com/feed/feed.xml" htmlUrl="https://www.hogbaysoftware.com/" description="Hog Bay Software Blog" language="en"/>
+      <outline text="The Breakroom" type="rss" xmlUrl="https://blog.iconfactory.com/feed/" htmlUrl="https://blog.iconfactory.com/" description="A blog for the Iconfactory" language="en"/>
+      <outline text="Unsplash" type="rss" xmlUrl="https://unsplash.com/blog/rss/" htmlUrl="https://unsplash.com/blog/" description="Stories from the community powering the internet’s visuals" language="en"/>
+    </outline>
     <outline text="Tech">
       <outline text="Basic Apple Guy" type="rss" xmlUrl="https://basicappleguy.com/basicappleblog?format=rss" htmlUrl="https://basicappleguy.com/" description="" language="en"/>
+      <outline text="LaudableApps" type="rss" xmlUrl="https://laudableapps.com/feed.xml" htmlUrl="https://laudableapps.com/" description="A collection of beautiful iOS apps." language="en"/>
     </outline>
     <outline text="Web Development">
       <outline text="Jim Nielsen’s Blog" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com/" description="" language="en"/>

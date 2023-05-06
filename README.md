@@ -2,9 +2,9 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Ethan](https://ethanwong.me/)'s web subscriptions, organized as [OPML](https://opml.org/) files.
+Here are [Ethan](https://ethanwong.me/)'s web subscriptions, organized as [OPML](https://opml.org/) files.
 
-Contents:
+## Table of Contents
 
 - Web Feeds:
   - [All Web Feeds](./Feeds.opml)
@@ -13,3 +13,9 @@ Contents:
 - Podcasts:
   - [All Podcasts](./Pocasts.opml)
   - [Podcasts – Chinese](./Pocasts-zh.opml)
+
+## Product Recommendations
+
+* On my Mac, I use [NetNewsWire](https://netnewswire.com/) to subscribe and consume web articles and [Doughnut](https://doughnutapp.com/) for podcasts.
+
+* On my iPhone or iPad, I use [NetNewsWire](https://netnewswire.com/) for articles as well and mostly ['XiaoYuZhou FM'](https://www.xiaoyuzhoufm.com/) for podcasts. I use [Pocket Casts](https://pocketcasts.com/) regularly as well.

@@ -5,43 +5,72 @@
     <ownerEmail>e1hanw0ng@gmail.com</ownerEmail>
   </head>
   <body>
-    <outline text="Blogs">
-      <outline text="Artorius" type="rss" xmlUrl="https://artori.us/feed.xml" htmlUrl="https://artori.us/" description="Arthur's Blog" language="zh"/>
-      <outline text="Hwang's Blog" type="rss" xmlUrl="https://hwang.top/atom.xml" htmlUrl="https://hwang.top/" description="欢迎来到 Hwang 的小博客 &lt;br&gt;&#10;📚 博客通过 Gridea 搭建，感谢 Gridea 的免费服务；&lt;br&gt;&#10;🌍 托管于 Github，感谢 Github.com 提供的服务器资源  &lt;br&gt;&#10;✏️ 文章由 Hwang，在 Ulysses 上完成写作/亦或者拷贝&lt;br&gt;&#10;👨‍🎨 封面由 Hwang，在 Figma 上完成创作 &lt;br&gt;&#10;这里显然不是什么技术博客，也不会有太多值得期待的干货。" language="zh"/>
-      <outline text="Neverland" type="rss" xmlUrl="https://type.cyhsu.xyz/feed.xml" htmlUrl="https://type.cyhsu.xyz/" description="Recent content on Neverland" language="zh"/>
-      <outline text="Pseudoyu" type="rss" xmlUrl="https://www.pseudoyu.com/zh/index.xml" htmlUrl="https://www.pseudoyu.com/zh/" description="Recent content on Pseudoyu" language="zh"/>
-      <outline text="Random Thoughts" type="rss" xmlUrl="https://blog.joway.io/index.xml" htmlUrl="https://blog.joway.io/" description="Recent content on Random Thoughts" language="zh"/>
-      <outline text="Shall We Code?" type="rss" xmlUrl="https://waynerv.com/rss.xml" htmlUrl="https://waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等" language="zh"/>
-      <outline text="SPACE Blog - 小宇宙" type="rss" xmlUrl="https://blog.xiaoyuzhoufm.com/rss/" htmlUrl="https://blog.xiaoyuzhoufm.com/" description="小宇宙Studio和小宇宙剪辑工具" language="zh"/>
-      <outline text="Steve说每周通讯" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/steve" htmlUrl="https://steve.hedwig.pub/" description="内容来自Steve和朋友们每周精选的优质内容 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
-      <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation" language="zh"/>
-      <outline text="刻意体会" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/kyth" htmlUrl="https://kyth.hedwig.pub/" description="Time takes the time time takes. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
-      <outline text="咕咚同学" type="rss" xmlUrl="http://gudong.site/static/xml/rss.xml" htmlUrl="http://gudong.site/" description="咕咚的个人博客" language="zh"/>
-      <outline text="唐巧的博客" type="rss" xmlUrl="https://blog.devtang.com/atom.xml" htmlUrl="https://blog.devtang.com/" description="记录下自己学习的点滴" language="zh"/>
-      <outline text="富于理性" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/havefun?limit=50" htmlUrl="https://havefun.zhubai.love/" description="求知若饥，虚心若愚。&#10;2022 年聚焦于「创造财富」。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
-      <outline text="徐旭 的博客" type="rss" xmlUrl="https://blog.iofree.xyz/index.xml" htmlUrl="https://blog.iofree.xyz/" description="Recent content on 徐旭 的博客" language="zh"/>
-      <outline text="木土金王可" type="rss" xmlUrl="https://dujinke.com/feed/" htmlUrl="https://dujinke.com/" description="" language="zh"/>
+    <outline text="App Releases">
     </outline>
     <outline text="Design">
-      <outline text="DecoHack周刊" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/decohack?limit=50" htmlUrl="https://decohack.zhubai.love/" description="为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。&#10;内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式&#10;每周更新 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="Decohack" type="rss" xmlUrl="http://www.decohack.com/feed" htmlUrl="https://www.decohack.com/" description="独立开发者灵感周刊" language="zh"/>
+      <outline text="The Type — 文字 / 设计 / 文化" type="rss" xmlUrl="https://www.thetype.com/feed/" htmlUrl="https://www.thetype.com/" description="文字 设计 文化" language="zh"/>
       <outline text="显济的闲言碎语" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/xianjijeffery?limit=50" htmlUrl="https://xianjijeffery.zhubai.love/" description="下午2:00-5:00在喝咖啡｜海外智能硬件产品设计师｜做了自己的网站：Jefferyho.com - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
-      <outline text="海上星光" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/hsxg?limit=50" htmlUrl="https://hsxg.zhubai.love/" description="上海的PM与东京的设计师共营的科技、设计、生活型博客 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="海上星光" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/hsxg?limit=50" htmlUrl="https://hsxg.zhubai.love/" description="PM@阿小小海和设计师@尤a娜共营的科技、设计、生活型博客/上海/东京 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
     </outline>
     <outline text="Efficiency">
-      <outline text="可乐周报" type="rss" xmlUrl="http://coke.do/?format=rss" htmlUrl="http://coke.do/" description="简短实用的思维方式" language="zh"/>
+      <outline text="可乐周报" type="rss" xmlUrl="https://www.kele.me/feed" htmlUrl="http://kele.me/" description="简短实用的思维方式" language="zh"/>
     </outline>
     <outline text="iDev">
+      <outline text="13 報" type="rss" xmlUrl="https://www.ethanhuang13.com/feed" htmlUrl="https://www.ethanhuang13.com/" description="13 的 Apple/iOS 開發者電子報" language="zh"/>
+      <outline text="Use Your Loaf - iOS Development News &amp; Tips" type="rss" xmlUrl="https://useyourloaf.com/blog/rss.xml" htmlUrl="https://useyourloaf.com/blog/" description="Recent content on Use Your Loaf - iOS Development News &amp; Tips" language="zh"/>
       <outline text="戴铭的博客 - 星光社" type="rss" xmlUrl="https://ming1016.github.io/atom.xml" htmlUrl="http://ming1016.github.io/" description="" language="zh"/>
+      <outline text="波報 | Pofat 的 Swift 中文電子報" type="rss" xmlUrl="https://pofat.substack.com/feed" htmlUrl="https://pofat.substack.com/" description="Swift 與開發的大小事" language="zh"/>
       <outline text="肘子的Swift记事本" type="rss" xmlUrl="https://www.fatbobman.com/feed.rss" htmlUrl="https://www.fatbobman.com/" description="东坡肘子的博客，记录并分享学习 Swift、SwiftUI、Core Data 以及 Combine 过程中的心得与经验。" language="zh"/>
     </outline>
+    <outline text="Micro Bloging">
+      <outline text="咕咚同学" type="rss" xmlUrl="http://gudong.site/static/xml/rss.xml" htmlUrl="http://gudong.site/" description="咕咚的个人博客" language="zh"/>
+    </outline>
+    <outline text="Personal Blogs">
+      <outline text="Admirable 技术博客" type="rss" xmlUrl="https://dev.admirable.pro/rss/" htmlUrl="https://dev.admirable.pro/" description="Software Engineering &amp; Hacks" language="zh"/>
+      <outline text="An Admirable Pro" type="rss" xmlUrl="https://an.admirable.pro/feed/" htmlUrl="https://an.admirable.pro/" description="人文 · 科技 · 生活" language="zh"/>
+      <outline text="Artorius" type="rss" xmlUrl="https://artori.us/feed.xml" htmlUrl="https://artori.us/" description="Arthur's Blog" language="zh"/>
+      <outline text="Dott's Blog" type="rss" xmlUrl="https://dott.love/rss.xml" htmlUrl="https://dott.love/" description="Dott's Blog - A product &amp; design learner's forest cabin in the Internet." language="zh"/>
+      <outline text="Ethan's Blog" type="rss" xmlUrl="https://ethanwong.page/feed.xml" htmlUrl="https://ethanwong.page/" description="Where text flows." language="zh"/>
+      <outline text="maxOS" type="rss" xmlUrl="https://maxoxo.me/rss/" htmlUrl="https://maxoxo.me/" description="探索设计与价值的科学" language="zh"/>
+      <outline text="Neverland" type="rss" xmlUrl="https://type.cyhsu.xyz/feed.xml" htmlUrl="https://type.cyhsu.xyz/" description="Recent content on neverland" language="zh"/>
+      <outline text="piglei" type="rss" xmlUrl="https://www.piglei.com/feeds/latest/" htmlUrl="http://www.zlovezl.cn/" description="Programming in python, JavaScript and Golang."/ language="zh">
+      <outline text="Pol Piella's Blog" type="rss" xmlUrl="https://www.polpiella.dev/rss.xml" htmlUrl="https://polpiella.dev/" description="A blog about iOS mobile app development and Swift."/ language="en">
+      <outline text="Pseudoyu" type="rss" xmlUrl="https://www.pseudoyu.com/zh/index.xml" htmlUrl="https://www.pseudoyu.com/zh/" description="Recent content on Pseudoyu" language="zh"/>
+      <outline text="Random Thoughts" type="rss" xmlUrl="https://blog.joway.io/index.xml" htmlUrl="https://blog.joway.io/" description="Recent content on Random Thoughts" language="zh"/>
+      <outline text="Re:Play Newsletter" type="rss" xmlUrl="https://newsletter.replay.cafe/rss/" htmlUrl="https://newsletter.replay.cafe/" description="Re:Play 是由@Justin , @Oscar , @Clu 三位不专业音乐爱好者发起的两周一会的Newsletter。" language="zh"/>
+      <outline text="Shall We Code?" type="rss" xmlUrl="https://waynerv.com/rss.xml" htmlUrl="https://waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等" language="zh"/>
+      <outline text="Steve说每周通讯" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/steve" htmlUrl="https://steve.hedwig.pub/" description="内容来自Steve和朋友们每周精选的优质内容 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation" language="zh"/>
+      <outline text="Whitesspace" type="rss" xmlUrl="https://www.clu.so/feed" htmlUrl="https://clu.so/" description="A Blog and Site about CLU thoughts and recording my experience that worth to share." language="zh"/>
+      <outline text="Xueming" type="rss" xmlUrl="https://xueming.hashnode.dev/rss.xml" htmlUrl="https://xueming.hashnode.dev/" description="产品, 效率工具, 数字精简, 数字极简, Digital Minimalism, minimalism, product hunt, Efficiency tool" language="zh"/>
+      <outline text="Yiming Chen" type="rss" xmlUrl="https://yiming.dev/rss.xml" htmlUrl="https://yiming.dev/" description="My rants against Life and Software." language="zh"/>
+      <outline text="Ⓙ Hedwig - 在诗外" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/lauren" htmlUrl="https://lauren.hedwig.pub/" description="关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="Ⓙ Hedwig - 地心引力" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/walnut" htmlUrl="https://walnut.hedwig.pub/" description="关注互联网、效率工具与生活方式，一起脱离重力束缚 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="Ⓙ Hedwig - 意游未尽" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/pangliacci" htmlUrl="https://pangliacci.hedwig.pub/" description="个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。欢迎订阅与批评。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="刻意体会" type="rss" xmlUrl="https://rss.ethanwong.me/blogs/hedwig/kyth" htmlUrl="https://kyth.hedwig.pub/" description="Time takes the time time takes. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="唐巧的博客" type="rss" xmlUrl="https://blog.devtang.com/atom.xml" htmlUrl="https://blog.devtang.com/" description="记录下自己学习的点滴" language="zh"/>
+      <outline text="富于理性" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/havefun?limit=50" htmlUrl="https://havefun.zhubai.love/" description="💡 学习顶级实践者的智慧，促成你想要的改变           &#10;🤖️ 分享 AI 妙用，助力学习、创作和个人成长 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="徐旭 的博客" type="rss" xmlUrl="https://blog.iofree.xyz/index.xml" htmlUrl="https://blog.iofree.xyz/" description="Recent content on 徐旭 的博客" language="zh"/>
+      <outline text="恣意生长" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/growing?limit=50" htmlUrl="https://growing.zhubai.love/" description="恣意生长是一份自我观察的 Newsletter，我想好好看看自己。这份 Newsletter 会为读者提供 视角/产品/设计/编程 四个方向内容的思考和感悟，他们会是杂糅而又恣意的。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="慢慢发光" type="rss" xmlUrl="http://ephraim.wang/feed/" htmlUrl="http://ephraim.wang/" description="Ephraim Wang的小站 since 2009" language="zh"/>
+      <outline text="木土金王可" type="rss" xmlUrl="https://dujinke.com/feed/" htmlUrl="https://dujinke.com/" description="木土金王可" language="zh"/>
+      <outline text="湾区日报 Blog" type="rss" xmlUrl="https://wanqu.substack.com/feed" htmlUrl="https://wanqu.substack.com/" description="关注创业与技术，每天推送3到5篇优质英文文章：https://www.wanqu.co&#10;&#10;这个 Substack 主要用来发布我运营湾区日报的心得/幕后故事。" language="zh"/>
+      <outline text="潮流周刊" type="rss" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/" description="记录 Tw93 潮流前端的日常生活" language="zh"/>
+      <outline text="程序员的喵" type="rss" xmlUrl="https://catcoding.me/atom.xml" htmlUrl="http://catcoding.me/" description="" language="zh"/>
+    </outline>
+    <outline text="Product Blogs">
+      <outline text="SPACE Blog - 小宇宙" type="rss" xmlUrl="https://blog.xiaoyuzhoufm.com/rss/" htmlUrl="https://blog.xiaoyuzhoufm.com/" description="小宇宙Studio和小宇宙剪辑工具" language="zh"/>
+    </outline>
     <outline text="Tech">
+      <outline text="HelloGitHub 月刊" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com/" description="HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。" language="zh"/>
       <outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/" description="少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质" language="zh"/>
       <outline text="混沌周刊" type="rss" xmlUrl="https://weekly.love/feed/atom/" htmlUrl="https://weekly.love/" description="有关科技，有关开发，有关生活" language="zh"/>
-      <outline text="老胡的周刊" type="rss" xmlUrl="https://weekly.howie6879.cn/rss/rss.xml" htmlUrl="https://github.com/howie6879/weekly" description="我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。" language="zh"/>
+      <outline text="老胡的周刊" type="rss" xmlUrl="https://weekly.howie6879.com/rss/rss.xml" htmlUrl="https://github.com/howie6879/weekly" description="老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。" language="zh"/>
     </outline>
     <outline text="Web Development">
       <outline text="Tw93 的博客" type="rss" xmlUrl="https://tw93.fun/feed.xml" htmlUrl="https://tw93.fun/" description="Hi，我是 Tw93，是一个前端工程师，会一点 Swift / Rust / Python，喜欢折腾各种新技术。" language="zh"/>
-      <outline text="一颗小树" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/xiaoshu?limit=50" htmlUrl="https://xiaoshu.zhubai.love/" description="分享我的日常。我关注的领域包括但不限于互联网、技术、开源、投资理财、Web3，每周更新相关内容，欢迎你来。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
+      <outline text="一颗小树" type="rss" xmlUrl="https://rss.ethanwong.me/zhubai/xiaoshu?limit=50" htmlUrl="https://xiaoshu.zhubai.love/" description="分享我的日常，包括但不限于互联网、技术、开源、投资理财，每周更新相关内容，欢迎你来。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" language="zh"/>
     </outline>
   </body>
 </opml>
